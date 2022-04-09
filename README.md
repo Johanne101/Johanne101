@@ -3,7 +3,9 @@
 
 ----------
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=johanne101&label=Profile%20views&color=0e75b6&style=flat" alt="johanne101" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=johanne101&label=Profile%20views&color=0e75b6&style=flat" alt="johanne101" /> </p> 
+
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Johanne101/holberton-system_engineering-devops)
 
 ![GitHub stats](https://github-readme-stats.sabesansathananthan.vercel.app/api?username=johanne101&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=algolia)
 
