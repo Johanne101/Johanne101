@@ -9,8 +9,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johanne101&show_icons=true&locale=en&layout=compact" alt="johanne101" /></p>
 
+![Python MasterClass Certificate 70.5 hrs](https://udemy-certificate.s3.amazonaws.com/image/UC-a84609ac-4d7b-4565-a0b0-058e5eeb08d6.jpg)
 ![alt text](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.explicit.bing.net%2Fth%3Fid%3DOIP.R3fYNBQQVrsQEcwWDjUFAAAAAA%26pid%3DApi&f=1)
-
 ## 🔭 I’m currently working on a **Ethereum Smart Contract** feature.
 
 <h3 align="left">Connect with me:</h3>
